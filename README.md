@@ -5,7 +5,23 @@ My own work can be found in the ImageAnalysis folder and the numbered notebooks
 are the interesting ones, unnumbered are tryouts/unfinished work and under heavy
 construction.
 
-
+TODO:
+- Figure out the manifold for the fourier space. My hypothesis is that it lies
+  in RP^1 x C^2
+- Understand how the paper used the klein bottle structure and how the above
+  manifold yields better results. 
+- It would be very interesting to see how scaling / rotation works in the above
+  as it would in fact be a quotient space of the above manifold. Same with
+  scaling. This means that "just" projecting on the smaller space and using that
+  for the NN would guarantee rotation/scale invariance out of the box. At what
+  cost?
+- Investigate if Perea's approach, mapping the patches to the above manifold and
+  viewing it as a distribution, estimating fourier coeff's of the distribution
+  and classifying those might be a better alternative. 
+- Understand if there is a natural way to visualise the phase of the fft, and if
+  the effect is important or whether just using the amplitude might be
+  sufficient. (or vice versa, this might be even better)
+- 
 
 
 
