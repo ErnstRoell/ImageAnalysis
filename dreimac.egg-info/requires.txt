@@ -1,0 +1,17 @@
+cython
+jupyter
+matplotlib
+numba
+numpy
+persim
+ripser
+scipy
+screeninfo
+
+[docs]
+sktda_docs_config
+
+[examples]
+
+[testing]
+pytest

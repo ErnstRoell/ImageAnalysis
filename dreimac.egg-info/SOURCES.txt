@@ -1,0 +1,13 @@
+README.md
+setup.py
+dreimac/__init__.py
+dreimac/_version.py
+dreimac/circularcoords.py
+dreimac/emcoords.py
+dreimac/geomtools.py
+dreimac/projectivecoords.py
+dreimac.egg-info/PKG-INFO
+dreimac.egg-info/SOURCES.txt
+dreimac.egg-info/dependency_links.txt
+dreimac.egg-info/requires.txt
+dreimac.egg-info/top_level.txt
