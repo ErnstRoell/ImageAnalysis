@@ -1,3 +1,14 @@
+# Image Analysis 
+This is a clone of Jose Perea's DREiMac Tool that was used to analyse spaces of
+image patches. 
+My own work can be found in the ImageAnalysis folder and the numbered notebooks
+are the interesting ones, unnumbered are tryouts/unfinished work and under heavy
+construction.
+
+
+
+
+
 # DREiMac
 ## Dimension Reduction with Eilenberg-MacLane Coordinates
 ### Chris Tralie, Tom Mease, Jose Perea
